@@ -1,5 +1,4 @@
-## Hi there 👋
-Welcome to the OpenDSA eTextbook GitHub Organization!
+## Welcome to the OpenDSA eTextbook GitHub Organization!
 
 OpenDSA is organized to support installation using Docker. If you would like to install your own copy, there are two ways to go.
 
